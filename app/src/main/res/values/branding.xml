@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">短信桥</string>
+    <bool name="protect_screens">true</bool>
+</resources>

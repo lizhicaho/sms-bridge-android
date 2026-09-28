@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" rx="32" fill="#f2f5fb"/>
+<rect x="48" y="48" width="1184" height="544" rx="28" fill="#fff"/>
+<g font-family="sans-serif" fill="#192741">
+<text x="90" y="132" font-size="52" font-weight="700">短信桥 · SMS Bridge</text>
+<text x="92" y="184" font-size="26" fill="#65738a">让另一台手机的短信，及时到达。</text>
+<rect x="90" y="240" width="300" height="180" rx="24" fill="#e5eeff"/>
+<text x="124" y="304" font-size="28" font-weight="700">A 手机 · Android</text>
+<text x="124" y="352" font-size="22">指定来源 / 全部新短信</text>
+<text x="124" y="389" font-size="22">选择发送 SIM</text>
+<path d="M420 330 H680 M652 308 L682 330 L652 352" fill="none" stroke="#315edc" stroke-width="7" stroke-linecap="round"/>
+<text x="447" y="294" font-size="22" fill="#315edc">原文 · 逐个发送</text>
+<rect x="720" y="240" width="420" height="80" rx="20" fill="#edf2fc"/>
+<rect x="720" y="340" width="420" height="80" rx="20" fill="#edf2fc"/>
+<text x="754" y="290" font-size="27">目标手机 1</text>
+<text x="754" y="390" font-size="27">目标手机 2 ……</text>
+<text x="90" y="488" font-size="24">多来源 · 多目标 · 无需服务器 · 接收端无需安装</text>
+<text x="90" y="544" font-size="18" fill="#65738a">功能示意图｜短信可能收费，机型兼容及到达延迟需实测</text>
+</g></svg>

@@ -1,0 +1,7 @@
+<resources>
+    <item name="source_number" type="id" />
+    <item name="destination_number" type="id" />
+    <item name="sending_sim" type="id" />
+    <item name="message_detail_body" type="id" />
+    <item name="forward_all" type="id" />
+</resources>

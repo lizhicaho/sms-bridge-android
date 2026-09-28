@@ -1,0 +1,17 @@
+name: 问题反馈
+description: 提交可复现问题，请勿填写真实验证码或私人号码
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境
+      description: 手机型号、系统版本、应用版本、SIM 数量
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤和实际结果
+      description: 使用虚构号码、测试正文说明；包括锁屏条件、记录状态和到达延迟
+    validations:
+      required: true

@@ -1,0 +1,20 @@
+.gradle/
+.tools/
+**/build/
+local.properties
+*.jks
+*.keystore
+.DS_Store
+.signing/
+dist/
+
+.kotlin/
+*.hprof
+*.log
+.env
+.env.*
+
+# Local working notes and postponed iOS exploration
+ios-shortcuts/
+docs/实施记录.md
+docs/验证结果*.md
